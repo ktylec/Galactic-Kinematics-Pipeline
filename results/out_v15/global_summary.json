@@ -1,0 +1,10 @@
+{
+  "BIC_known_sigma": 422655.3999171498,
+  "abs_diff_chi2": 6113.658570139436,
+  "chi2_total": 422606.65857013944,
+  "expected_chi2": 416493.0,
+  "k_params": 6,
+  "n_galaxies_processed": 171,
+  "n_points_total": 3373,
+  "tolerance": 50.0
+}

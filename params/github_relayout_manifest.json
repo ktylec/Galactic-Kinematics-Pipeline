@@ -1,0 +1,9 @@
+{
+  "created_utc": "2026-02-26T10:59:51Z",
+  "source_package": "UHST_v15_FULL_PACKAGE_v15.1.zip",
+  "source_package_md5": "7aa77a9a4cb6064cbde225ac5346e951",
+  "source_package_sha256": "60f3b67adfb2641df3627b474d4e9e65f881f0ebdd3c959af7faaeb79aadc5d0",
+  "included_rotmod_zip_md5": "e4c8b92766026770ed35e5889064e12b",
+  "included_rotmod_zip_sha256": "0a80cc90714828cc28b7dd57923576714d209f2490328c087c4a4ad607faf588",
+  "notes": "GitHub-ready re-layout of UHST v15 FULL PACKAGE v15.1 into data/src/results/paper structure."
+}
